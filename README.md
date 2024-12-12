@@ -1,4 +1,5 @@
-<img src="./android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" alt="logo" width="144" height="144" align="right" />
+# 说明
+此分支仅供OpenHarmony平台适配时的学习交流，并且代码未与主仓库同步，尝试编译时请从主仓库获取最新代码，然后使用本分支的yaml文件替换，不出意外的话解决完intl问题及平台指向问题后就能成功编译出hap包。
 
 # PixEz Flutter ![](https://camo.githubusercontent.com/f2b4fa6779c8a4825e0e7347076746a2047ed100/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c2d2d332e302d6f72616e67652e737667)
 
